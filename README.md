@@ -6,9 +6,12 @@ Welcome to the Animate-Image wiki!
 javac GrayScale.java  
 
 **run Class**
+
+
 java GrayScale "InputImage" -output "Output Folder" 
 
-Example
+**Example**
+
 java GrayScale "/Users/binaryboy/Desktop/appicon.png" -output "/Users/binaryboy/Desktop/Icon/" 
 
 in Folder you will found Images that can you it to make gray to color animation
